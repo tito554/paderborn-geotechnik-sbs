@@ -1,0 +1,50 @@
+# Geotechnik — Paderborn
+
+> Geotechnical engineering services in Paderborn, Deutschland.
+
+## Services
+- [Anker](https://paderborn.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://paderborn.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://paderborn.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://paderborn.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://paderborn.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://paderborn.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://paderborn.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://paderborn.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://paderborn.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://paderborn.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://paderborn.geotechnik.sbs/flexibler-belag/)
+- [Geophysik](https://paderborn.geotechnik.sbs/geophysik/)
+- [Grundungen](https://paderborn.geotechnik.sbs/grundungen/)
+- [Hange](https://paderborn.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://paderborn.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://paderborn.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://paderborn.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://paderborn.geotechnik.sbs/labor/)
+- [Labor In Situ](https://paderborn.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://paderborn.geotechnik.sbs/masw/)
+- [Pfahle](https://paderborn.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://paderborn.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://paderborn.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://paderborn.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://paderborn.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://paderborn.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://paderborn.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://paderborn.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://paderborn.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://paderborn.geotechnik.sbs/spt-bohrung/)
+- [Strassenbau](https://paderborn.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://paderborn.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://paderborn.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://paderborn.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://paderborn.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://paderborn.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://paderborn.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://paderborn.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://paderborn.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Paderborn, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
